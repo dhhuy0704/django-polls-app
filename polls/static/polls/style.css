@@ -1,0 +1,28 @@
+.question-list {
+    margin: 100px;
+}
+
+li a {
+    line-height: 40px;
+    color: black;
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+body {
+    background: white url("images/background.jpeg") no-repeat;
+}
+
+input[type=button], input[type=submit] {
+    margin: 10px 10px 10px 10px;
+    padding: 10px;
+    border-radius: 5px;
+    min-width: 70px;
+}
